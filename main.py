@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ENTRY = 'revert "remove dead code" - it was the entire checkout flow'
+ENTRY = 'revert "remove dead code" - it was the checkout flow'
 
 
 def main():
